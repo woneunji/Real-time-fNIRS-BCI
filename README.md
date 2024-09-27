@@ -26,10 +26,10 @@ Real-Time fNIRS-BCI system for target detection in DSR task.
 • After preprocessing, features are extracted and input into the classification model to perform the final prediction.
 • PsychoPy, Aurora fNIRS (for recording), and the fNIRS-BCI all communicate with each other using pylsl.
 
-![realtime_system_design](https://github.com/user-attachments/assets/fdbca801-fe0e-4749-a7cc-3777de96b0b1)
-▲ The proposed real-time fNIRS-BCI system design
+<center><img src="https://github.com/user-attachments/assets/fdbca801-fe0e-4749-a7cc-3777de96b0b1  width="200" height="400"/></center>
+<center>▲ The proposed real-time fNIRS-BCI system design</center>
 
 
 ## Reference
 
-[1] Shin J. et al. Simultaneous acquisition of EEG and NIRS during cognitive tasks for an open access dataset. Sci Data 5, 2018![image](https://github.com/user-attachments/assets/6c744f1a-c021-4df4-91cf-e2cfa7c2af52)
+[1] Shin J. et al. Simultaneous acquisition of EEG and NIRS during cognitive tasks for an open access dataset. Sci Data 5, 2018
